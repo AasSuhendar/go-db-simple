@@ -5,12 +5,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 Prequisites packages:
-Go (Go Programming Language)
-Dep (Go Dependencies Management Tool)
-Make (Automated Execution using Makefile)
+- Go (Go Programming Language)
+- Dep (Go Dependencies Management Tool)
+- Make (Automated Execution using Makefile)
 
 Optional packages:
-GoReleaser (Go Automated Binaries Build)
-Docker (Application Containerization)
+- GoReleaser (Go Automated Binaries Build)
+- Docker (Application Containerization)
 
 Readme will be update soon
